@@ -1,0 +1,27 @@
+.heading h3{
+    display: inline;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+#start,#status
+{
+    font-size: 22px;
+}
+
+#restart{
+    border: 5px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: darkcyan;
+    line-height: 3;
+    text-align: center;
+}
